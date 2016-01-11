@@ -1,0 +1,15 @@
+#TECHUMEN#ACSES
+#TECHUMEN
+#ACSES
+#TECHUMEN#ACSES
+compilation error
+
+what will following code prints?
+
+#include<stdio.h>
+int main()
+{
+	if(printf("#TECHUMEN"))
+	if(printf("#ACSES"))
+	return 0;
+}

@@ -1,0 +1,15 @@
+Run time error
+It will print a
+It will print 0
+Compile time error
+Run time error
+
+Comment on the output of following code?
+#include <stdio.h>
+int main()
+{
+        char *p = 0;
+        *p = 'a';
+        printf("value in pointer p is %c\n", *p);
+	return 0;
+}

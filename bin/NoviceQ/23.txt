@@ -1,0 +1,18 @@
+Compilation error
+Compilation error
+Warning: Condition is always false
+WCE ACSES
+Sangli
+
+What will be output when you will execute following c code?
+
+#define PRINT printf("WCE");printf(" ACSES");
+#include<stdio.h>
+int main(){
+    int x=1;
+    if(x--)
+	PRINT;
+    else
+	printf("Sangli");
+    return 0;
+}

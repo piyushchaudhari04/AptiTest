@@ -1,0 +1,10 @@
+2 and 3
+1 and 2	
+2 and 3	
+3 and 4	
+2 and 4	
+Which of the following are Java reserved keywords?
+   1.run
+   2.import
+   3.default
+   4.implement

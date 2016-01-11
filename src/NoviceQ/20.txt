@@ -1,0 +1,7 @@
+gets();
+printf();	
+scanf();
+gets();	
+puts();
+
+Which of the following function is more appropriate for reading in a multi-word string?

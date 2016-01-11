@@ -1,0 +1,6 @@
+getConnection()
+executeQuery()
+executeUpdate()
+getConnection()
+prepareCall()
+Which statement is static and synchronized in JDBC API??

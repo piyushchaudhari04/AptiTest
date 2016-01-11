@@ -1,0 +1,19 @@
+13
+11
+12
+13
+14
+
+what is output of code?
+
+#include<stdio.h>
+int main()
+{
+	int a=1,b=2;
+	a++;
+	++b;
+	++a;
+	printf("%d",a+++a+++b+b++);
+	return 0;
+
+}

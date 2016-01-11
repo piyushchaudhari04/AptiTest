@@ -1,0 +1,15 @@
+14
+16
+14
+13
+15
+
+What number is output by the program below? (assuming 8 byte pointers)
+#include <stdio.h>		
+
+int main(){
+    const char   firstname[] = "bobby";
+    const char*  lastname = "eraserhead";
+    printf("%lu\n", sizeof(firstname)+sizeof(lastname));
+    return 0;
+}

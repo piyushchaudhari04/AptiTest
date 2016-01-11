@@ -1,0 +1,6 @@
+default access
+public	
+abstract
+protected	
+default access
+What is the most restrictive access modifier that will allow members of one class to have access to members of another class in the same package?

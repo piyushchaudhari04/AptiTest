@@ -1,0 +1,21 @@
+Equal
+Compiler Error
+Equal
+Greater than
+Less than	
+
+What will the following code print.
+#include<stdio.h>
+int main()
+{
+	 int i=25;
+ static unsigned long long const int x=i;
+ if(x==i)
+printf("\nEqual");
+ else if(x>i)
+printf("\nGreater than");
+ else
+printf("\nLess than");
+
+	return 0;
+}

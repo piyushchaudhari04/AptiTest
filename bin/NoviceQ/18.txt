@@ -1,0 +1,8 @@
+strrchr()
+strnstr()	
+laststr()
+strrchr()	
+strstr()
+
+The library function used to find the last occurrence of a character in a string is
+

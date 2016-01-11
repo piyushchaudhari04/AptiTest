@@ -1,0 +1,6 @@
+A reference value once defined cannot be reassigned
+reference is the alternate name of the object
+A reference value once defined can be reassigned
+A reference value once defined cannot be reassigned
+none of the mentioned
+Identify the incorrect statement

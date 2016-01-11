@@ -1,0 +1,19 @@
+xxxxxxxxxxxxxnopqrstuvwxyz
+abcdefghijklm
+nopqrstuvwxyz
+xxxxxxxxxxxxxnopqrstuvwxyz
+abcdefghijklmxxxxxxxxxxxxx
+
+Find output of following code:
+#include <stdio.h>
+#include <string.h>
+
+int main()
+{
+   char string[] = "abcdefghijklmnopqrstuvwxyz";
+   char letter = 'x';
+   strnset(string, letter, 13);
+   printf("%s\n", string);
+
+   return 0;
+}

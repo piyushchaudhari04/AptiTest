@@ -1,0 +1,29 @@
+ball is greater than bat
+Compilation Error
+ball is greater than bat
+bat is greater that ball
+none of the options
+#include <iostream>
+using namespace std;
+ 
+class Ball
+{
+public:
+    virtual void play();
+};
+ 
+class Bat
+{
+public:
+   void play();
+};
+ 
+int main()
+{
+    int a = sizeof(Ball), b = sizeof(Bat);
+    if(a>b)
+        cout << "ball is greater than bat";
+    else
+        cout << "bat is greater that ball";
+    return 0;
+}

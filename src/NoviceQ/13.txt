@@ -1,0 +1,18 @@
+machine dependent
+3
+5
+0x0503
+machine dependent
+
+what value should be printed by the program:
+typedef union ds_{
+        short s;
+        char c;
+} ds;
+int main()
+{
+ds object;
+object.s = 0x0503;
+printf("%d\n", object.c);
+return 0;
+}

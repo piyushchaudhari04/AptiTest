@@ -1,0 +1,6 @@
+byte
+int
+char
+boolean
+byte
+All raw data types should be read and uploaded to the database as an array of

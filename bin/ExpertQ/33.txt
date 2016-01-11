@@ -1,0 +1,23 @@
+Good Morning Hello
+Good Morning Hello
+Hello Good Morning
+HelloGood Morning
+Compiler Error: Global objects are not allowed
+
+What is output of following c++ code?
+#include <iostream>
+using namespace std;
+ 
+class Guess
+{
+    public:
+      Guess() { cout << "Good Morning "; }
+} obj;
+ 
+int main()
+{
+    cout << "Hello";
+    return 0;
+}
+
+

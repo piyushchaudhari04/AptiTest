@@ -1,0 +1,8 @@
+
+#Expert12====> 14
+2#Novice25====> 1
+1#Novice67====> 0
+#Expert21====> 0
+#ExpertCF1====> 5
+1#Novice102====> 0
+2#Novice39====> 8

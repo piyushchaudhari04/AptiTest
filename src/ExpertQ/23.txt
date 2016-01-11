@@ -1,0 +1,19 @@
+Compile time error
+Compile time error
+Run time error
+Output of a random number between 0 and 1
+Output of a random number between 0 and 9
+class MyCalc extends Math{
+public int random(){
+        double iTemp;
+        iTemp=super();
+        return super.round(iTemp);
+        }
+}
+
+public class MyRand{
+public static void main(String argv[]){
+        MyCalc m = new MyCals();
+        System.out.println(m.random());
+        }
+}

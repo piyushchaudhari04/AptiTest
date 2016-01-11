@@ -1,0 +1,22 @@
+4 8
+4 8
+12 12
+4 12
+8 8
+
+Predict the output following program if integer and pointer each take 
+4 bytes of memory.
+#include<iostream>
+using namespace std;
+class Example
+{
+    static int x;
+    int *ptr;
+    int y;
+};
+int main()
+{
+    Example ex;
+    cout << sizeof(Example *)<< " ";
+    cout << sizeof(ex);
+}

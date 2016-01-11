@@ -1,0 +1,14 @@
+line 3
+line 2
+line 3
+line 2 and 3
+none of above
+
+For the code below which lines should be reported as errors by a compiler?
+
+int main(int argc, char** argv){
+  const char* foo = "wow";           // line 1
+  foo = "top";                       // line 2
+  foo[0] = 1;                        // line 3
+  return 0;
+}

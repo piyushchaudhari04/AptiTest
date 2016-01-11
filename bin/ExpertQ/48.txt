@@ -1,0 +1,9 @@
+work fine
+Compiler Error
+Run-time Crash
+Unpredictable
+work fine
+
+What happens when delete is used for a NULL pointer?
+int *ptr = NULL;
+delete ptr; 

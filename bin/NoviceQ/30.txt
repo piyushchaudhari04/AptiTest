@@ -1,0 +1,15 @@
+27
+343	
+27	
+133	
+Compiler error	
+
+What will be output if you will compile and execute the following c code?
+
+#define x 5+2
+int main(){
+    int i;
+    i=x*x*x;
+    printf("%d",i); 
+    return 0;
+}

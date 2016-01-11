@@ -1,0 +1,9 @@
+ptr is array of 30 pointers to integers
+ptr is array of 30 pointers to integers
+ptr is a pointer to an array of 30 integers pointers
+ptr is an array of 30 integer pointers
+ptr is an array of 30 pointers
+
+What do the following declaration signify
+	
+int *ptr[30];

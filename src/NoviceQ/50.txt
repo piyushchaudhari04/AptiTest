@@ -1,0 +1,15 @@
+value of a
+compilation error
+a
+runtime error
+value of a
+
+What will following code prints?
+#include<stdio.h>
+int main()
+{
+int a;
+if(scanf("%d",&a))
+if(printf("%d",a))
+return 0;
+}

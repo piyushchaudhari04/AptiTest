@@ -1,0 +1,16 @@
+10#15
+10#11
+10#15
+15#10
+15#15
+
+What gets printed?
+#include <stdio.h>
+int main()
+{
+        int ints[] = { 0, 5, 10, 15 };
+        int* i2 = ints + 2;
+        int a = *i2++;
+        printf("%d#%d\n", a, *i2);
+        return 0;
+}

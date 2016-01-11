@@ -1,0 +1,8 @@
+ceil(1.66)	
+ceil(1.66)	
+floor(1.66)
+roundup(1.66)	
+roundto(1.66)
+
+How would you round off a value from 1.66 to 2.0?
+

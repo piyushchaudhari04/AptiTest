@@ -1,0 +1,30 @@
+70
+70
+0
+39
+None of the above
+
+Predict the output of following C++ progran
+#include <iostream>
+using namespace std;
+int var;
+class CodeClass
+{
+public:
+	~CodeClass()
+	{
+		var=39;
+	}
+};
+
+int specialFun()
+{
+	var=70;
+	CodeClass ob1;
+	return var;
+}
+int main()
+{
+	cout << specialFun() << endl;
+	return 0;
+}

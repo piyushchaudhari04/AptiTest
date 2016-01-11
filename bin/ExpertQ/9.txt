@@ -1,0 +1,6 @@
+Final class
+abstract class
+parent class
+Final class
+None of above
+Which class cannot HAVE a subclass in java??

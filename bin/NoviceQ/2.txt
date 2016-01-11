@@ -1,0 +1,18 @@
+It will accept sentence as a string from user.
+It will accept a word as a string from user.
+It will accept a sentence as a string from user.
+It will accept a paragraph as a string from user.
+Compiler error.
+
+What will be output if you will compile and execute the following c code?
+
+
+#include<stdio.h>
+int main(){
+  char *str;
+  scanf("%[^\n]",str);
+  printf("%s",str); 
+  return 0;
+}
+
+

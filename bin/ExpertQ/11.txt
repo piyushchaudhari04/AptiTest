@@ -1,0 +1,6 @@
+java.util.TreeMap
+java.util.HashSet
+java.util.LinkedList
+java.util.TreeMap
+java.util.SortedSet
+Which collection class associates values with keys, and orders the keys according to their natural order??

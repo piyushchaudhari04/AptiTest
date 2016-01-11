@@ -1,0 +1,22 @@
+Compilation Error
+C++ Apti
+Compilation Error
+C++ Apti.
+Runtime Error
+
+Output of following C++ program?
+#include <iostream>
+class TestClass
+{
+public:
+    void testFun();
+};
+static void TestClass::testFun()   
+{
+    std::cout<<"C++ Apti "<<”.”;
+}
+int main()
+{
+    TestClass::testFun();   
+    return 0;
+}

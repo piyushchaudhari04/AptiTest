@@ -1,0 +1,7 @@
+All Of Above
+Scalar
+Drived
+Pointer
+All Of Above
+
+Identify the type(s) if data type.

@@ -1,0 +1,24 @@
+Compilation error
+Garbage Value
+0
+Compilation error
+None of the above
+Predict the output of following c++ code.
+#include <iostream>
+using namespace std;
+class SimpleClass
+{
+    int var;
+public:
+    SimpleClass(int i=0)
+   { var=i;  }
+
+   int getVar() {return var;}
+};
+ 
+int main()
+{
+    const SimpleClass t;
+    cout << t.getVar();
+    return 0;
+}

@@ -1,0 +1,15 @@
+97
+compilation error
+a
+97
+65
+
+What will be the output?
+#include<stdio.h>
+int main()
+{
+int k;
+k='a'
+printf("%d",k);
+return 0;
+}

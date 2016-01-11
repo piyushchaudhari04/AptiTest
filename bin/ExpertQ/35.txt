@@ -1,0 +1,8 @@
+only 1
+only 1
+only 2
+both 1 and 2
+none of the above
+Which of the following operators are overloaded by default by the compiler?
+1) Assignment Operator ( = )
+2) Comparison Operator ( == )

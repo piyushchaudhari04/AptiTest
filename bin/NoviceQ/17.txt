@@ -1,0 +1,7 @@
+printf("\\n);
+printf("\n");	
+echo "\\n";
+printf('\n');	
+printf("\\n);
+
+How will you print \n on the screen?

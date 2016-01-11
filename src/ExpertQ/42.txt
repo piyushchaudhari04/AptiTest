@@ -1,0 +1,9 @@
+By making destructor private
+Not possible
+By making destructor private
+By making constructor private
+By making both constructor and destructor private
+
+How can we make a C++ class such that objects of it can only be created 
+using new operator? If user tries to create an object directly, the 
+program produces compiler error.

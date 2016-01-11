@@ -1,0 +1,6 @@
+arrayName p[5];
+arrayName[] p = new arrayName[5];
+arrayName p[5];
+arrayName[] p;
+arrayName p[][] = new arrayName[2][];
+Which of the following statements about arrays is syntactically wrong??

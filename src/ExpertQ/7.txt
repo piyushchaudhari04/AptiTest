@@ -1,0 +1,9 @@
+1,2 and 3
+1 only 
+2 and 3 
+1 and 3 
+1,2 and 3
+Vector class in java implements which interface/s??
+	1.Serializable Intr
+	2.Cloneable
+	3.RandomAccess

@@ -1,0 +1,18 @@
+Compilation error due to line 3
+Compilation error due to line 1
+Compilation error due to line 2
+Compilation error due to line 3
+Work without error 
+What is output of following c++ code?
+#include <iostream>
+using namespace std;
+
+class DummyClass
+{
+    ~DummyClass() {} //line 1
+};
+int main()
+{ 
+    DummyClass *t1; //line 2
+    DummyClass t2;  //line 3
+}

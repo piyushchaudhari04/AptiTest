@@ -1,0 +1,17 @@
+it will execute without any interupt
+it will throw runtime exception
+compilation fails
+it will execute without any interupt
+none of the above
+public class MyClass {
+	
+    public static void main(String arguments[]) { 
+
+    }
+
+    public void amethod(String[] arguments) { 
+		
+
+    }
+
+}

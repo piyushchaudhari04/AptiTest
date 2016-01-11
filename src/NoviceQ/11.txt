@@ -1,0 +1,7 @@
+depend on compiler
+2 byte
+4 byte
+depend on compiler
+1 byte
+
+What is size of int datatype?

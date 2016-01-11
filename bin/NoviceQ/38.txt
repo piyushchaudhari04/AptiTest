@@ -1,0 +1,7 @@
+it result in the syntax error
+it is assumed to be present and taken to be false
+it is assumed to be present and taken to be true
+it result in the syntax error
+execution will be terminated abruptly
+
+In a for loop, if the condition is missing,then? 

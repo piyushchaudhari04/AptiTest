@@ -1,0 +1,19 @@
+memcpy
+strcpy
+memcpy
+they should have same speed
+none of above
+
+In theory, which is faster, the call to strcpy or the call to memcpy?
+#include <string.h>
+#include <stdlib.h>
+int main(){
+
+        char msg[12] = "Hello World";
+        char buffer1[12];
+        char buffer2[12];
+
+        strcpy(buffer1, msg);
+        memcpy(buffer2, msg, sizeof(msg));
+        return 0;
+}

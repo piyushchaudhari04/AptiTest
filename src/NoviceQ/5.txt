@@ -1,0 +1,20 @@
+-1
+1
+5
+-1
+compilation error
+
+What value gets printed by the program below?
+struct Foo{
+        int x:1;
+        int y:2;
+};
+int main()
+{
+struct Foo obj;
+
+obj.x = 5;
+
+printf("%d\n", obj.x);
+return 0;
+}

@@ -1,0 +1,32 @@
+fun()3
+fun()1
+fun()2
+fun()3
+compilation error
+#include <iostream>
+using namespace std;
+  
+class First
+{
+public:
+    virtual void fun() { cout << "fun()1"; }
+};
+  
+class Second: public First
+{
+public:
+   void fun() { cout << "fun()2"; }
+};
+  
+class Third: public Second
+{
+public:
+   void fun() { cout << "fun()3"; }
+};
+  
+int main()
+{
+    Second *ptr = new Third;
+    ptr->fun();
+    return 0;
+}

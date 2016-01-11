@@ -1,0 +1,27 @@
+Compilation Error
+Runtime Error
+x=75
+Compilation Error
+x=70
+
+What is the output of following c++ program?
+#include<iostream>
+using namespace std;
+
+class Class
+{
+    int x;
+public:
+    Class(int x = 0) { this->x = x; }
+    void change(Class *t) { this = t;}
+    void display() { cout << "x = " << x; }
+};
+
+int main()
+{
+    Class obj(75);
+    Class *ptr = new Class(70);
+    obj.change(ptr);
+    obj.display();	
+    return 0;
+}

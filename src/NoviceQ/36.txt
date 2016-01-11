@@ -1,0 +1,7 @@
+double
+float
+double
+long double
+far double
+
+By default a real number is treated as a 

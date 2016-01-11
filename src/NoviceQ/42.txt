@@ -1,0 +1,7 @@
+ptr is a pointer to an array of 10 integers
+ptr is a pointer to an array of 10 integers
+ptr is array of pointers to 10 integers
+ptr is an array of 10 integers
+ptr is an pointer to array
+
+What does the following declaration mean? int (*ptr)[10]; 

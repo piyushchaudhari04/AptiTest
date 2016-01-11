@@ -1,0 +1,7 @@
+rem = fmod(3.14, 2.1);
+rem = 3.14 % 2.1;
+rem = modf(3.14, 2.1);
+rem = fmod(3.14, 2.1);
+Remainder cannot be obtain in floating point division.
+
+Which of the following statements should be used to obtain a remainder after dividing 3.14 by 2.1 ?

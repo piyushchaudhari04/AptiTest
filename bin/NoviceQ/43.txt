@@ -1,0 +1,16 @@
+31
+31
+24
+30
+compilation error
+
+What will be output if you will compile and execute the following c code?
+
+#include<stdio.h>
+int main()
+{
+	int i=8,x;
+  x=++i+ ++i+ ++i;
+  printf("%d",x); 
+	return 0;
+}

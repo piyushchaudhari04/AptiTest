@@ -1,0 +1,12 @@
+1,2
+2,3,4
+2,3
+2,4
+1,2
+Which two are valid constructors for Thread?
+
+   1.Thread(Runnable r, String name)
+   2.Thread()
+   3.Thread(int priority)
+   4.Thread(Runnable r, ThreadGroup g)
+   5.Thread(Runnable r, int priority)

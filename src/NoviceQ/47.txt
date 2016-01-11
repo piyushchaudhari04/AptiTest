@@ -1,0 +1,19 @@
+There is no any error.
+Inner structure must have name.
+Outer structure must have name.
+Nesting of structure is not allowed in c.
+There is no any error.
+
+What is error in following declaration?
+
+#include<stdio.h>
+struct ACSES{
+ int a;
+ struct WCE{
+ char w;
+};
+};
+int main()
+{
+	return 0;
+}

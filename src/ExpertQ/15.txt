@@ -1,0 +1,6 @@
+autoboxing
+boxing
+wrapping
+instantiation
+autoboxing
+Converting a primitive type data into its corresponding wrapper class object instance is called

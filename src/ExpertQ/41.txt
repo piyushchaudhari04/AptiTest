@@ -1,0 +1,20 @@
+Abnormal program termination
+70
+Compiler error
+Abnormal program termination
+none of the above
+
+#include <iostream>
+using namespace std;
+ 
+int aFun() throw (int)
+{
+    throw 70;
+}
+ 
+int main() {
+ 
+  aFun();
+  return 0;
+}
+Output of above c++ program is

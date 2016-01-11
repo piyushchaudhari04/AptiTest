@@ -1,0 +1,6 @@
+init() method
+start() method
+init() method
+stop() method
+destroy() method
+Which method executes only once?

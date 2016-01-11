@@ -1,0 +1,18 @@
+1 2 3
+1 2 3 4
+1 2 3
+1 2
+1
+
+Which of the following differences between malloc and calloc are true?
+1) malloc allocates number of bytes passed as argument.
+
+2) calloc allocates the product of number of elements 
+    multiplied by the size of each element, 
+    which are both passed as arguments.
+
+3) both malloc and calloc return void*.
+
+4) both malloc and calloc initialize allocated
+    memory to all 0.
+

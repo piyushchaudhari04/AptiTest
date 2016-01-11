@@ -1,0 +1,7 @@
+A is a pointer to structure in which B is a field
+A and B are structure
+A is B structure and b is a pointer to structure
+A is a pointer to structure and B is a structure
+A is a pointer to structure in which B is a field
+
+A -> B is syntactically correct if? 

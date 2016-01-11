@@ -1,0 +1,11 @@
+All
+Only 1, 2 and 3
+Only 1, 2 and 4
+All
+Only 1, 3 and 4
+
+In C++, const qualifier can be applied to 
+1) Member functions of a class 
+2) Function arguments 
+3) To a class data member which is declared as static 
+4) Reference variables

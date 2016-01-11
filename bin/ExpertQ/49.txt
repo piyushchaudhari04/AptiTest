@@ -1,0 +1,16 @@
+4
+2
+4
+8
+garbage
+What is the output of the following cpp program?
+(Assume int requires 2 bytes and float requires 4 bytes of memory)
+    #include <iostream>
+    using namespace std;
+    int main()
+    {
+        int num1 = 10;
+        float num2 = 20;
+        cout << sizeof(num1 + num2);
+        return 0;
+    }

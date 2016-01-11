@@ -1,0 +1,16 @@
+0 0.000000
+Error
+Garbage Collection
+0 0.000000
+1 0.000000
+main()
+{
+   struct emp
+   {
+     char name[20];
+     int age;
+     float sal;
+   };
+   struct emp e ={"Tiger"}
+   printf("%d%d%f",e.age,e.sal);
+}

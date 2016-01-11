@@ -1,0 +1,25 @@
+Caught Derived Exception
+Caught Base Exception
+Caught Derived Exception
+Comilation Error
+No Output
+
+#include<iostream>
+using namespace std;
+class Base {};
+class Derived: private Base {};
+int main()
+{
+	Derived d;
+	try {
+		throw d;
+	}
+	catch(Base b) {
+		cout<<"Caught Base Exception";
+	}
+	catch(Derived d) {
+		cout<<"Caught Derived Exception";
+	}
+	return 0;
+}
+Output of above program is :

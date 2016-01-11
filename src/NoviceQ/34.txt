@@ -1,0 +1,7 @@
+is right associative and - has precedence over *
+is left associative and * has precedence over -
+is right associative and * has precedence over -
+is right associative and - has precedence over *
+if left associative and - has precedence over *
+
+The expression 5-2-3*5-2 will evaluate to 18 if ?

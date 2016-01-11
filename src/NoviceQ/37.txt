@@ -1,0 +1,7 @@
+=,||,<,.
+.,||,<,=
+=,<,||,.
+=,||,<,.
+<,||,=,.
+
+The operators .,||,<,= if arranged in ascending order of precedence reads ? 

@@ -1,0 +1,13 @@
+true
+true
+false
+it will throw exception
+0
+public class MyClass {
+	
+ public static void main(String args[]) {
+            Double d = new Double(1 / 0.);  
+            boolean x = d.isInfinite();
+            System.out.print(x);
+        }
+}

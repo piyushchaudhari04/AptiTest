@@ -1,0 +1,16 @@
+Hello world11
+11Hello world
+Hello world11
+10Hello world
+compilation error
+
+what will be the output of the following program: 
+
+#include<stdio.h>
+int main()
+{
+
+   char *str="Hello world";
+   printf("%d",printf("%s",str)); 
+	return 0;
+}

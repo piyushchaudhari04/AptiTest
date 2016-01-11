@@ -1,0 +1,18 @@
+ACSES
+Compilation error
+ACSES
+TECHUMEN
+None of the above
+
+What will be output when you will execute following c code?
+#include<stdio.h>
+int main(){
+    int a=5,b=10,c=1;
+    if(a&&b>c){
+         printf("ACSES");
+    }
+    else{
+	printf("TECHUMEN");        	
+	}
+return 0;
+}
